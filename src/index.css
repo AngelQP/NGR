@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* html {
+  height: 100%;
+  background-color: white;
+}
+
+body {
+  height: 100%;
+} */
